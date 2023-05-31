@@ -1,0 +1,1 @@
+[![Python Package using Conda](https://github.com/Afghano02/Afghano02/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Afghano02/Afghano02/actions/workflows/python-package-conda.yml)
